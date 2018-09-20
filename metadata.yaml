@@ -1,11 +1,16 @@
 _repo: New-Edition-of-Hints-on-Silver-Glass-Reflecting-Telescopes-Manufactured-by-Mr-G-Calver-FRAS-w__53494
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53494-h/images/cover.jpg
 creator:
   author:
     agent_name: Calver, George
     gutenberg_agent_id: '47399'
     url: http://www.gutenberg.org/2009/agents/47399
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53494#New-Edition-of-Hints-on-Silver-Glass-Reflecting-Telescopes-Manufactured-by-Mr-G-Calver-FRAS-w_
 gutenberg_issued: '2016-11-10'
 gutenberg_type: Text
 identifiers:
