@@ -1,0 +1,26 @@
+_repo: New-Edition-of-Hints-on-Silver-Glass-Reflecting-Telescopes-Manufactured-by-Mr-G-Calver-FRAS-w__53494
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Calver, George
+    gutenberg_agent_id: '47399'
+    url: http://www.gutenberg.org/2009/agents/47399
+description: ''
+gutenberg_issued: '2016-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53494'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reflecting telescopes'
+- !lcsh 'Scientific apparatus and instruments'
+- !lcc 'QB'
+- GITenberg
+title: 'New Edition of Hints on Silver-Glass Reflecting Telescopes Manufactured by
+  Mr. G. Calver, F.R.A.S.
+
+  with Directions for Silvering, Adjusting, &c.'
+url: http://www.gutenberg.org/ebooks/53494
